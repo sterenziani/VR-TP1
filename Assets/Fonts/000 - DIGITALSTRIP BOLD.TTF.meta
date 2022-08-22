@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d7f882de0ccdf97498a1b09c319a2635
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - 000 - DigitalStrip
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0381dd7e048a0e04f9a24e8ff2b7a1e2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
