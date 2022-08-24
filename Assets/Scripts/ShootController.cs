@@ -27,7 +27,7 @@ public class ShootController : MonoBehaviour
 			{
 				shot = true;
 				Vector3 forceVector = Camera.main.transform.forward;
-				forceVector.y *= 1.25f;
+				//forceVector.y = 1.25f;
 				ballRigidBody.AddForce(150f * forceVector);
 			}
 		}
